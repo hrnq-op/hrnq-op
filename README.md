@@ -1,4 +1,4 @@
-# Henrique Oliveira Pires
+# Henrique Oliveira
 
 <div align="center">
 
