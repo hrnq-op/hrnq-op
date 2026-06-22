@@ -135,7 +135,7 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 ## 📞 Vamos Conversar?
 
 Estou aberto a:
-- 💼 Oportunidades como desenvolvedor Junior
+- 💼 Primeira oportunidade profissional
 - 🤝 Colaborações em projetos
 - 💬 Discussões sobre tecnologia e desenvolvimento
 - 📧 Feedback sobre meu código e projetos
