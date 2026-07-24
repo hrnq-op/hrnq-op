@@ -114,9 +114,8 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hnrq-op&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnrq-op&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=hnrq-op&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnrq-op&layout=compact&theme=dark" alt="Top Languages" height="150" />
 
 </div>
 
