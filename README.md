@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor backend em formação, apaixonado por construir sistemas robustos e escaláveis. Com formação técnica em Informática e atualmente graduando em **Tecnologia em Sistemas para Internet** no IF Goiano, tenho dedicado meu tempo a dominar o ecossistema Java e as melhores práticas de desenvolvimento.
 
-Minha trajetória começou com fundamentos sólidos de hardware e lógica de programação. Hoje, transformo essa base prática no desenvolvimento de sistemas de alto nível, construindo **APIs RESTful seguras e escaláveis** com Spring Boot, aplicando padrões de arquitetura e garantindo qualidade através de testes automatizados.
+Minha trajetória começou com fundamentos sólidos de hardware e lógica de programação. Hoje, transformo essa base prática no desenvolvimento de sistemas de alto nível, construindo **APIs RESTful seguras e escaláveis** com Spring Boot, aplicando padrões de arquitetura, garantindo qualidade através de testes automatizados e aplicando práticas de **DevOps e Cloud Computing** para conteinerizar e realizar o deploy de aplicações em nuvem.
 
 **Objetivo:** Conquistar minha primeira oportunidade como desenvolvedor Junior, adquirir experiência prática e evoluir continuamente na carreira.
 
@@ -85,7 +85,7 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 - 🔒 Conhecimento em segurança (OWASP Top 10, JWT, OAuth2)
 - 🏗️ Experiência com arquitetura em camadas e padrões de design
 - 📈 Mentalidade de aprendizado contínuo e evolução profissional
-- 🐳 Experiência com containerização de ambientes completos
+- 🐳 Experiência com containerização de ambientes completos, práticas de DevOps e deploy na nuvem
 
 ---
 
@@ -103,8 +103,9 @@ Minha trajetória começou com fundamentos sólidos de hardware e lógica de pro
 - Validação de entrada e proteção contra vulnerabilidades OWASP
 
 ### Cloud & Infraestrutura
-- AWS: EC2, RDS
-- Docker: Containerização de aplicações e ambientes locais
+- AWS: EC2, RDS, ECR
+- Docker: Containerização de aplicações (Multi-stage builds) e ambientes locais
+- Práticas de DevOps e implantação de aplicações em nuvem
 - Monitoramento de aplicações
 
 ---
